@@ -1,3 +1,6 @@
+The original project is [here](https://github.com/gr-/birdie).
+
+
 Birdie
 ==================
 
